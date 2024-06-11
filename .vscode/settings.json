@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "clock.h": "c",
+        "msp.h": "c"
+    }
+}
